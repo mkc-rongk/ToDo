@@ -1,10 +1,17 @@
-Public-Doc
+ToDo Demo
 ==========
 
-Shared Documents for team members
+Single Page application with knockout js 
 
+get it from the github from 
 
-1. Domain-Driven Desgn_1(2).pdf                DDD Ebooks
-2. Dot NET Domain-Driven Design with C#.pdf    DDD with C#
-3. edam-sync.pdf                               MyC Sync Logic
-4. knockout js.pdf                             KnockOut js 
+https://github.com/mkc-rongk/ToDo 
+
+create a local repository branch with your name.
+
+finish these changes on it:
+1. Add a Desc for ToDoList  
+2. change the ui, user can update desc 
+3. Add date for ToDoItem
+4. user can use datepicker to modify the date
+5. If the Date is expire, the panel should be red, and all field disabled.
