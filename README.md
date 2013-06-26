@@ -10,6 +10,7 @@ https://github.com/mkc-rongk/ToDo
 create a local repository branch with your name.
 
 finish these changes on it:
+
 1. Add a Desc for ToDoList  
 2. change the ui, user can update desc 
 3. Add date for ToDoItem
